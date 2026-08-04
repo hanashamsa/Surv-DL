@@ -1,0 +1,7 @@
+yolo11n.pt
+readme.md
+dataset/
+runs/
+__pycache__/
+*.pyc
+.venv/
