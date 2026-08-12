@@ -1,5 +1,6 @@
-clearml
-ultralytics
-torch
-torchvision
-PyYAML
+clearml==2.1.11
+ultralytics==8.4.118
+torch==2.2.2
+torchvision==0.17.2
+PyYAML==6.0.3
+numpy==1.26.4
